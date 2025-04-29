@@ -1,3 +1,4 @@
-biopython>=1.67
-regex>=2016.8.27
-tqdm>=4.8.4
+numpy>=1.26
+biopython>=1.78
+regex>=2024.11.6
+tqdm>=4.67.1
